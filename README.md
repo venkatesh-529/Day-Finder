@@ -1,4 +1,4 @@
-A simple program that determines the day of the week for a given valid date.
+A simple application that determines the day of the week for a given valid date.
 
 ## Description
 This project takes a valid date as input (day, month, year) and calculates the corresponding day (Monday, Tuesday, etc.).  
